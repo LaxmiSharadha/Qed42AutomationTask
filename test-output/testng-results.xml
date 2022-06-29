@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T17:11:15 IST" name="Default suite" finished-at="2022-06-29T17:12:03 IST" duration-ms="48140">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T17:11:15 IST" name="Default test" finished-at="2022-06-29T17:12:03 IST" duration-ms="48140">
+      <class name="org.qed42.testscripts.AutomationTask">
+        <test-method signature="verifyFlipkartTest()[pri:0, instance:org.qed42.testscripts.AutomationTask@e7edb54]" started-at="2022-06-29T17:11:15 IST" name="verifyFlipkartTest" finished-at="2022-06-29T17:11:57 IST" duration-ms="41628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.qed42.testscripts.AutomationTask@e7edb54]" started-at="2022-06-29T17:11:57 IST" name="afterMethod" finished-at="2022-06-29T17:12:01 IST" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="verifyGridTable()[pri:0, instance:org.qed42.testscripts.AutomationTask@e7edb54]" started-at="2022-06-29T17:12:01 IST" name="verifyGridTable" finished-at="2022-06-29T17:12:03 IST" duration-ms="2277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGridTable -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:org.qed42.testscripts.AutomationTask@e7edb54]" started-at="2022-06-29T17:12:03 IST" name="afterMethod" finished-at="2022-06-29T17:12:03 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.qed42.testscripts.AutomationTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
